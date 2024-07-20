@@ -7,7 +7,7 @@
 
 Repository contains Randorm's design code, including:
 
-| Group Name             | Purpose                                                                       | File Types   |
+| Group Name             | Description                                                                   | File Types   |
 | ---------------------- | ----------------------------------------------------------------------------- | ------------ |
 | [logotext](./logotext) | Our wordmarked full-size rectangular logo (available in English and Russian). | `svg`, `png` |
 | [logo](./logo)         | Single logo without text.                                                     | `svg`, `png` |
