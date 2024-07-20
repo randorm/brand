@@ -1,4 +1,4 @@
-[![Randorm](./adaptive/randorm-logotext-en.svg)](https://github.com/randorm)
+![Randorm](./.github/poster.png)
 
 > We have put together some guidelines for those times when you want to use our
 > logos to link back to us.
