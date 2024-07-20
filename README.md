@@ -11,7 +11,6 @@ Repository contains Randorm's design code, including:
 | ---------------------- | ----------------------------------------------------------------------------- | ------------ |
 | [logotext](./logotext) | Our wordmarked full-size rectangular logo (available in English and Russian). | `svg`, `png` |
 | [logo](./logo)         | Single logo without text.                                                     | `svg`, `png` |
-| [icon](./icon)         | Square icon for social media.                                                 | `svg`, `png` |
 | [adaptive](./adaptive) | Logos dynamically adapt to different backgrounds.                             | `svg`        |
 | [animated](./animated) | Animated logos.                                                               | `lottie`     |
 
