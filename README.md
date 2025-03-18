@@ -13,7 +13,7 @@ Repository contains Randorm's design code, including:
 | [wordmark](./wordmark) | The wordmark is used in contexts where the audience may not be familiar with Randorm. It has a capitalized "Р" (for Russian) and "R" (for English). When referring to Randorm, whether the product, company, or service, keep it simple: "Рандорм" or "Randorm". | `svg`, `png` |
 | [lockup](./lockup)     | This lockup combines the mark and wordmark and is used in scenarios where a new audience is introduced to the association between our primary logo and wordmark.                                                                                                 | `svg`, `png` |
 | [icon](./icon)         | A beautiful and consistent [icon](https://lucide.dev/guide/design/icon-design-guide).                                                                                                                                                                            | `svg`        |
-| [services](./services) | A set of icons for Randorm services.                                                                                                                                                                                                                             | `svg`, `png` |
+| [services](./services) | A set of service-specific logos of Randorm.                                                                                                                                                                                                                      | `svg`, `png` |
 
 ## Usage
 
